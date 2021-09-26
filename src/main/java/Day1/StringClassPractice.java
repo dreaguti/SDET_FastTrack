@@ -1,6 +1,5 @@
-package DayOne;
+package Day1;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class StringClassPractice {

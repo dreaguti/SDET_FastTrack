@@ -1,4 +1,4 @@
-package DayTwo;
+package Day2;
 
 public class DivisibleBy3Or5 {
     public static void main(String[] args) {

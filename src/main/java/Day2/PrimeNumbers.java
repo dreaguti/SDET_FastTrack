@@ -1,4 +1,4 @@
-package DayTwo;
+package Day2;
 
 public class PrimeNumbers {
     public static void main(String[] args) {

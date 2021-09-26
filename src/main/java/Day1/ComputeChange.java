@@ -1,6 +1,4 @@
-package DayOne;
-
-import org.w3c.dom.ls.LSOutput;
+package Day1;
 
 import java.util.Scanner;
 
