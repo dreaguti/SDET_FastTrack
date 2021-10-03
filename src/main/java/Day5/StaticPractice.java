@@ -11,6 +11,9 @@ public class StaticPractice {
         StaticKeyword inst = new StaticKeyword();
         inst.method1();
 
+        //if we want to access the static members, using class name is preferred
+        inst.method();
+
         // examples for the static method and data
         Math.addExact(2, 3);
         double num = Math.PI;
